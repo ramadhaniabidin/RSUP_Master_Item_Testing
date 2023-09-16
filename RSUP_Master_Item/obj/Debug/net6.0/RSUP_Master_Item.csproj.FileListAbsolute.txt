@@ -1,0 +1,15 @@
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\bin\Debug\net6.0\RSUP_Master_Item.exe
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\bin\Debug\net6.0\RSUP_Master_Item.deps.json
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\bin\Debug\net6.0\RSUP_Master_Item.runtimeconfig.json
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\bin\Debug\net6.0\RSUP_Master_Item.dll
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\bin\Debug\net6.0\RSUP_Master_Item.pdb
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\RSUP_Master_Item.csproj.AssemblyReference.cache
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\RSUP_Master_Item.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\RSUP_Master_Item.AssemblyInfoInputs.cache
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\RSUP_Master_Item.AssemblyInfo.cs
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\RSUP_Master_Item.csproj.CoreCompileInputs.cache
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\RSUP_Master_Item.dll
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\refint\RSUP_Master_Item.dll
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\RSUP_Master_Item.pdb
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\RSUP_Master_Item.genruntimeconfig.cache
+C:\Users\ramad\OneDrive\Documents\Belajar\Console App\RSUP_Master_Item\RSUP_Master_Item\obj\Debug\net6.0\ref\RSUP_Master_Item.dll
