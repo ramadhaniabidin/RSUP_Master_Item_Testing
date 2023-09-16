@@ -146,6 +146,16 @@
             "rid": "win"
           }
         }
+      },
+      "RSUP_Master_Item.Logics/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RSUP_Master_Item.Logics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RSUP_Master_Item.Logics.dll": {}
+        }
       }
     }
   },
@@ -462,10 +472,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "RSUP_Master_Item.Logics/1.0.0": {
+      "type": "project",
+      "path": "../RSUP_Master_Item.Logics/RSUP_Master_Item.Logics.csproj",
+      "msbuildProject": "../RSUP_Master_Item.Logics/RSUP_Master_Item.Logics.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "RSUP_Master_Item.Logics >= 1.0.0",
       "System.Data.SqlClient >= 4.8.5"
     ]
   },
@@ -495,7 +511,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\RSUP_Master_Item\\RSUP_Master_Item.Logics\\RSUP_Master_Item.Logics.csproj": {
+              "projectPath": "C:\\Users\\ramad\\OneDrive\\Documents\\Belajar\\Console App\\RSUP_Master_Item\\RSUP_Master_Item.Logics\\RSUP_Master_Item.Logics.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
