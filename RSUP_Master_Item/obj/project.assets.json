@@ -150,6 +150,9 @@
       "RSUP_Master_Item.Logics/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.5"
+        },
         "compile": {
           "bin/placeholder/RSUP_Master_Item.Logics.dll": {}
         },

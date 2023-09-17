@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace RSUP_Master_Item.Logics
 {
-    internal class TestClass
+    public class TestClass
     {
+        public void CreateMasterItemFromQuery(List<string> unit_name)
+        {
+            var fullQuery = "";
+
+
+            Console.WriteLine(fullQuery);
+        }
     }
 }
